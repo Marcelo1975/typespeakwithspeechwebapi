@@ -1,6 +1,6 @@
 {
   "name": "type-n-speak",
-  "homepage": "https://marcelo1975.github.io/typespeakwithspeechwebapi",
+  "homepage": "https://marcelo1975.github.io/typespeakwithspeechwebapi/dist/",
   "version": "1.0.0",
   "description": "Text to speak and synthesis app using the web speech API",
   "main": "index.js",
